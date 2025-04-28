@@ -35,8 +35,11 @@ This GitHub Organization (`AETHER-Research`) is the designated central location 
 *   ### **AutoEncoder Quantum Simulator (AE-QSim)**
     *   *Objective:* To research and develop advanced Autoencoders for simulating quantum states and dynamics, aiming to address scalability challenges in classical simulation.
     *   *Status:* Active Development (Proof-of-Concept Phase).
-    *   **Simulator Implementation:** [**github.com/sandner-art/aether-project**](https://github.com/sandner-art/aether-project) *(Planned for migration to AETHER-Research)*
-    *   **Related Publications & Notes:** [**github.com/sandner-art/aether-papers**](https://github.com/sandner-art/aether-papers) *(Planned for migration to AETHER-Research)*
+    *   **Simulator Implementation:** [**github.com/sandner-art/AE-QSim**](https://github.com/sandner-art/AE-QSim) *(Planned for migration to AETHER-Research)*
+    *   **Related QSim Publications & Notes:** [**github.com/sandner-art/AE-Papers**](https://github.com/sandner-art/AE-Papers) *(Planned for migration to AETHER-Research)*
+
+    *   **Other Implementations:** [**github.com/sandner-art/aether-project**](https://github.com/sandner-art/aether-project) *(Planned for migration to AETHER-Research)*
+    *   **Other Related Publications:** [**github.com/sandner-art/aether-papers**](https://github.com/sandner-art/aether-papers) *(Planned for migration to AETHER-Research)*
 
 ## Future Directions
 
